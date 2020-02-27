@@ -1,7 +1,7 @@
 setopt AUTO_CD
 setopt NO_CASE_GLOB
 
-HISTFILE=${ZDOTDIR:-HOME}/.zsh_history
+HISTFILE=~/.zsh_history
 SAVEHIST=5000
 HISTSIZE=2000
 
